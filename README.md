@@ -1,0 +1,1 @@
+# janken-mcp-server.js
