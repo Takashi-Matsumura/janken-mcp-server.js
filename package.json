@@ -1,0 +1,15 @@
+{
+    "name": "janken-mcp-server",
+    "version": "1.0.0",
+    "description": "じゃんけんMCPサーバー",
+    "main": "janken-mcp-server.js",
+    "bin": {
+      "janken-mcp-server": "./janken-mcp-server.js"
+    },
+    "scripts": {
+      "start": "node janken-mcp-server.js"
+    },
+    "keywords": ["mcp", "janken", "じゃんけん"],
+    "author": "あなたの名前",
+    "license": "MIT"
+  }
